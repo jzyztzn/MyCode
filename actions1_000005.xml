@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <annotation>
    <folder>VOC2017</folder>
-   <filename>000001.jpg</filename>
+   <filename>actions1_000005.jpg</filename>
    <source>
       <database>The VOC2007 Database</database>
       <annotation>PASCAL VOC2007</annotation>
@@ -24,10 +24,10 @@
       <truncated>0</truncated>
       <difficult>0</difficult>
       <bndbox>
-         <xmin>45</xmin>
-         <ymin>415</ymin>
-         <xmax>75</xmax>
-         <ymax>450</ymax>
+         <xmin>454</xmin>
+         <ymin>371</ymin>
+         <xmax>489</xmax>
+         <ymax>435</ymax>
       </bndbox>
    </object>
    <object>
@@ -36,22 +36,10 @@
       <truncated>0</truncated>
       <difficult>0</difficult>
       <bndbox>
-         <xmin>45</xmin>
-         <ymin>415</ymin>
-         <xmax>75</xmax>
-         <ymax>450</ymax>
-      </bndbox>
-   </object>
-   <object>
-      <name>person</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>45</xmin>
-         <ymin>415</ymin>
-         <xmax>75</xmax>
-         <ymax>450</ymax>
+         <xmin>454</xmin>
+         <ymin>514</ymin>
+         <xmax>485</xmax>
+         <ymax>541</ymax>
       </bndbox>
    </object>
 </annotation>

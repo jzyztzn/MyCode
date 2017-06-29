@@ -51,8 +51,9 @@ for cnt_frame_total = 1:1:5 %frame_total          % 第几�?
 
     annotation = [];
     annotation.folder = 'VOC2017';
-    annotation_name = num2str(cnt_frame_total);
-    annotation.filename = annotation_name;
+    annotation_xml_name = ['actions1_',num2str(cnt_frame_total,'%06d')];
+    annotation_full_name = [annotation_xml_name,'.jpg'];
+    annotation.filename = annotation_full_name;
 
     annotation.source.database = 'The VOC2007 Database';
     annotation.source.annotation = 'PASCAL VOC2007';
@@ -144,7 +145,7 @@ for cnt_frame_total = 1:1:5 %frame_total          % 第几�?
     end
 
     Pref=[]; Pref.CellItem = false;
-    xml_write([annotation_name,'.xml'], annotation, 'annotation',Pref);
+    xml_write([annotation_xml_name,'.xml'], annotation, 'annotation',Pref);
     % type('test.xml')
 
 end
