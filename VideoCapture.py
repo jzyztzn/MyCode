@@ -6,14 +6,14 @@ import os
 
 # paramater 
 # what kind of videos need to search
-videos_search_suffix = 'avi'
+videos_search_suffix = 'mpg'
 
 # save one frame every () frame
-frame_interval_number = 4
+frame_interval_number = 1
 
 #search path and save path
 video_search_path = '../'
-video_save_path = '../frame/'
+video_save_path = '../picture'
 videos = os.listdir(video_search_path)
 videos = filter(lambda x:x.endswith(videos_search_suffix), videos)
 # cat videos List
