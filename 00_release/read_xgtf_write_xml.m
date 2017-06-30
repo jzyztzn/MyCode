@@ -1,7 +1,7 @@
 %% test xml_read() function to read xxx.xgtf
 % first created by tzn at 20170629
 clear all;clc;
-tree = xml_read('actions1.xgtf');
+tree = xml_read('actions2.xgtf');
 data = tree.data;
 sourcefile = data.sourcefile;
 object = sourcefile.object;
@@ -44,14 +44,14 @@ end
 [object_length, object_length_temp] = size(object);
 
 % Operate by frame number
-for cnt_frame_total = 1:1:5 %frame_total          % 第几�?
+for cnt_frame_total = 1:1:frame_total          % 第几�?
 
     %% test xml_write() function to write xxx.xml(VOC2007)
     % first created by tzn at 20170629
 
     annotation = [];
     annotation.folder = 'VOC2017';
-    annotation_xml_name = ['actions1_',num2str(cnt_frame_total,'%06d')];
+    annotation_xml_name = ['actions2_',num2str(cnt_frame_total,'%06d')];
     annotation_full_name = [annotation_xml_name,'.jpg'];
     annotation.filename = annotation_full_name;
 
@@ -72,8 +72,8 @@ for cnt_frame_total = 1:1:5 %frame_total          % 第几�?
 
     cnt_person_eachframe = 1;              % 每帧画面中的人数
     for cnt_object = 1:1:object_length                 % object 的数�?
-        object_name = object(cnt_object).ATTRIBUTE.name
-        object_id = object(cnt_object).ATTRIBUTE.id
+        object_name = object(cnt_object).ATTRIBUTE.name;
+        object_id = object(cnt_object).ATTRIBUTE.id;
         if(strcmp(object_name,'PERSON'))            % 如果是�?人�?就继�?
             object_attritube = object(cnt_object).attribute;    % 该object的属性个�?
             [object_attritube_length, object_attritube_length_temp] = size(object_attritube);
@@ -145,7 +145,7 @@ for cnt_frame_total = 1:1:5 %frame_total          % 第几�?
     end
 
     Pref=[]; Pref.CellItem = false;
-    xml_write([annotation_xml_name,'.xml'], annotation, 'annotation',Pref);
+    xml_write(['./actions2/',annotation_xml_name,'.xml'], annotation, 'annotation',Pref);
     % type('test.xml')
 
 end
