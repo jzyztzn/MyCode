@@ -1,8 +1,8 @@
 % test xml_read() function to read xxx.xml
 % first created by tzn at 20170628
-tree = xml_read('test.xml');
-data = tree.data_COLON_bbox;
-[data_length,data_length_temp] = size(data)
+tree = xml_read('actions1.xgtf');
+data_COLON_bbox = tree.data_COLON_bbox;
+[data_length,data_length_temp] = size(data_COLON_bbox)
 for num = 1:1:data_length
     % attribute = data.ATTRIBUTE;
     attribute = tree.data_COLON_bbox(num).ATTRIBUTE;
