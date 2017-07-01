@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>VOC2017</folder>
+   <filename>actions1_003112.jpg</filename>
+   <source>
+      <database>The VOC2007 Database</database>
+      <annotation>PASCAL VOC2007</annotation>
+      <image>Unspecified</image>
+      <flickrid>Unspecified</flickrid>
+   </source>
+   <owner>
+      <flickrid>Unspecified</flickrid>
+      <name>Unspecified</name>
+   </owner>
+   <size>
+      <width>960</width>
+      <height>540</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>622</xmin>
+         <ymin>325</ymin>
+         <xmax>657</xmax>
+         <ymax>394</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>565</xmin>
+         <ymin>264</ymin>
+         <xmax>602</xmax>
+         <ymax>334</ymax>
+      </bndbox>
+   </object>
+</annotation>
