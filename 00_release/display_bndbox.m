@@ -3,22 +3,22 @@
 % first created by tzn at 20170708
 
 clear all;close all;clc;
-i_min = 1660;
-ImageReadPath = 'C:\temp\picture\aerial_tape1_part1\';
-XmlReadPath = 'C:\temp\ggeg\';
+i_min = 9200;
+ImageReadPath = 'C:\temp\picture\';%aerial_tape3_part1\';
+XmlReadPath = 'E:\UcfAnnotation\123\create_XmlFiles\';
+actions_name = 'aerial_tape1_part1';
 for i = i_min:1:i_min + 20
     
     image_number = i;
-    xml_number = i;%300;
-%     actions_number = 2;
+    xml_number = image_number;%300;
+    actions_number = 2;
     % actions_name = ['actions',num2str(actions_number)];
-    actions_name = 'aerial_tape1_part1';
     xmlfile_name = [XmlReadPath, actions_name,'\',actions_name,'_',num2str(xml_number,'%06d'),'.xml'];
     if ~exist(xmlfile_name,'file')==0
         annotation = xml_read(xmlfile_name);
         % read test.image
         % I = imread(['C:\temp\picture\',actions_name,'\',actions_name,'_',num2str(image_number,'%06d'),'.jpg']);
-        I = imread([ImageReadPath,actions_name,'_',num2str(image_number,'%06d'),'.jpg']);
+        I = imread([ImageReadPath,actions_name,'\',actions_name,'_',num2str(image_number,'%06d'),'.jpg']);
         size(I);
         % dispaly bndbox
 %         xmlfile_name;
@@ -33,15 +33,20 @@ for i = i_min:1:i_min + 20
             y_max_i = bndbox.ymax;
     %         H_i = y_max_i - y_min_i
     % 
-%             x_min_o = ceil(7*x_min_i/8.0 + x_max_i/8.0);
-%             y_min_o = ceil(15*y_min_i/16.0 + y_max_i/16.0);
-%             x_max_o = floor(x_min_i/8.0 + 7*x_max_i/8.0);
-%             y_max_o = floor(y_min_i/16.0 + 15*y_max_i/16.0);
+    %         x_min_o = ceil(7*x_min_i/8.0 + x_max_i/8.0);
+    %         y_min_o = ceil(15*y_min_i/16.0 + y_max_i/16.0);
+    %         x_max_o = floor(x_min_i/8.0 + 7*x_max_i/8.0);
+    %         y_max_o = floor(y_min_i/16.0 + 15*y_max_i/16.0);
 
-%             x_min_o = ceil(7*x_min_i/8.0 + x_max_i/8.0);
-%             y_min_o = ceil(7*y_min_i/8.0 + y_max_i/8.0);
-%             x_max_o = floor(x_min_i/8.0 + 7*x_max_i/8.0);
-%             y_max_o = floor(y_min_i/8.0 + 7*y_max_i/8.0);
+        %     x_min_o = ceil(7*x_min_i/8.0 + x_max_i/8.0);
+        %     y_min_o = ceil(7*y_min_i/8.0 + y_max_i/8.0);
+        %     x_max_o = floor(x_min_i/8.0 + 7*x_max_i/8.0);
+        %     y_max_o = floor(y_min_i/8.0 + 7*y_max_i/8.0);
+        
+            x_min_o = ceil(3*x_min_i/4.0 + x_max_i/4.0);
+            y_min_o = ceil(3*y_min_i/4.0 + y_max_i/4.0);
+            x_max_o = floor(x_min_i/4.0 + 3*x_max_i/4.0);
+            y_max_o = floor(y_min_i/4.0 + 3*y_max_i/4.0);
             % x_min
     %         if x_min_i <= 0
     %             break
@@ -66,7 +71,6 @@ for i = i_min:1:i_min + 20
     %         else
     %             y_max = y_max_i;
     %         end
-
             x_min = x_min_i;
             x_max = x_max_i;
             y_min = y_min_i;
