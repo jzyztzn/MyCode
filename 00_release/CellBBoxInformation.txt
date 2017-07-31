@@ -1,0 +1,998 @@
+05_100_43.xml		squamous-asc 		805	143	923  316	
+05_100_43.xml		squamous-asc 		694	1	806  147	
+05_100_43.xml		squamous 		525	145	706  348	
+05_100_43.xml		squamous 		746	714	942  930	
+
+05_102_65.xml		squamous-asc 		303	200	470  336	
+05_102_65.xml		squamous-asc 		201	261	343  498	
+05_102_65.xml		squamous 		259	758	445  873	
+05_102_65.xml		squamous 		568	463	768  622	
+05_102_65.xml		squamous 		739	786	852  935	
+
+05_102_97.xml		squamous-asc 		640	58	798  177	
+05_102_97.xml		squamous-asc 		725	84	908  195	
+05_102_97.xml		squamous 		601	231	753  346	
+05_102_97.xml		squamous 		549	296	728  437	
+05_102_97.xml		squamous 		606	790	807  917	
+05_102_97.xml		squamous 		11	718	177  873	
+05_102_97.xml		squamous 		391	829	552  967	
+
+05_103_110.xml		squamous-asc 		682	59	818  284	
+05_103_110.xml		squamous-asc 		693	47	889  248	
+05_103_110.xml		squamous-asc 		832	187	1014  352	
+05_103_110.xml		squamous 		822	636	961  808	
+05_103_110.xml		squamous 		712	623	833  814	
+05_103_110.xml		squamous 		406	295	541  450	
+
+05_103_19.xml		squamous-asc 		533	502	753  606	
+05_103_19.xml		squamous-asc 		644	425	920  664	
+05_103_19.xml		squamous-asc 		752	342	857  511	
+05_103_19.xml		squamous 		390	510	524  645	
+05_103_19.xml		squamous 		22	86	182  292	
+05_103_19.xml		squamous 		547	862	778  1023	
+
+05_103_91.xml		squamous-asc 		307	201	633  309	
+05_103_91.xml		squamous-asc 		359	223	613  347	
+05_103_91.xml		squamous-asc 		266	284	463  570	
+05_103_91.xml		squamous 		488	356	637  500	
+05_103_91.xml		squamous 		270	40	462  196	
+
+05_105_103.xml		squamous-lsil 		637	126	957  360	
+05_105_103.xml		squamous-asc 		797	409	905  642	
+05_105_103.xml		squamous-asc 		915	408	1021  525	
+05_105_103.xml		squamous 		474	597	627  786	
+05_105_103.xml		squamous 		433	53	601  193	
+05_105_103.xml		squamous 		331	687	486  837	
+
+05_105_20.xml		squamous-asc 		391	564	508  656	
+05_105_20.xml		squamous-asc 		237	104	332  224	
+05_105_20.xml		squamous-asc 		231	209	348  414	
+05_105_20.xml		squamous-asc 		296	553	413  675	
+05_105_20.xml		squamous-asc 		221	517	347  632	
+05_105_20.xml		squamous-asc 		151	247	253  439	
+05_105_20.xml		squamous 		257	694	460  929	
+05_105_20.xml		squamous 		486	480	643  623	
+05_105_20.xml		squamous 		1	777	239  949	
+
+05_105_44.xml		squamous-asc 		179	279	409  441	
+05_105_44.xml		squamous 		512	86	727  283	
+05_105_44.xml		squamous 		420	248	653  370	
+05_105_44.xml		squamous 		720	741	931  883	
+05_105_44.xml		squamous 		559	744	730  896	
+
+05_106_49.xml		glandular 		585	215	1009  502	
+05_106_49.xml		squamous 		316	628	529  841	
+
+05_107_101.xml		squamous-asc 		828	712	936  913	
+05_107_101.xml		squamous 		297	563	486  726	
+05_107_101.xml		squamous 		348	362	599  565	
+05_107_101.xml		squamous 		769	199	956  400	
+05_107_101.xml		squamous 		397	75	530  194	
+
+05_108_37.xml		squamous-lsil 		177	182	360  468	
+05_108_37.xml		squamous-lsil 		302	97	518  328	
+05_108_37.xml		squamous 		428	400	615  589	
+05_108_37.xml		squamous 		412	590	606  793	
+05_108_37.xml		squamous 		871	480	1024  685	
+
+05_110_101.xml		squamous-asc 		430	806	552  950	
+05_110_101.xml		squamous 		255	207	436  401	
+
+05_111_101.xml		squamous-asc 		431	34	554  184	
+05_111_101.xml		squamous 		95	551	221  714	
+05_111_101.xml		squamous 		397	647	549  747	
+
+05_111_25.xml		squamous-asc 		321	676	462  787	
+05_111_25.xml		squamous-asc 		280	742	385  828	
+05_111_25.xml		squamous 		636	622	784  792	
+05_111_25.xml		squamous 		307	351	558  539	
+05_111_25.xml		squamous 		264	62	504  262	
+05_111_25.xml		squamous 		620	244	776  429	
+05_111_25.xml		squamous 		16	184	137  336	
+05_111_25.xml		squamous-asc 		254	657	355  757	
+
+05_111_69.xml		squamous-asc 		363	352	603  586	
+05_111_69.xml		squamous-asc 		615	688	753  905	
+05_111_69.xml		squamous-asc 		543	713	637  812	
+05_111_69.xml		squamous 		702	341	891  449	
+05_111_69.xml		squamous 		590	614	775  709	
+05_111_69.xml		squamous 		14	585	208  786	
+
+05_113_69.xml		squamous-asc 		414	805	598  1023	
+05_113_69.xml		squamous-asc 		545	799	699  972	
+05_113_69.xml		squamous-asc 		776	403	955  536	
+05_113_69.xml		squamous 		423	326	577  487	
+05_113_69.xml		squamous 		66	1	281  100	
+05_113_69.xml		squamous 		58	553	208  772	
+05_113_69.xml		squamous 		346	536	466  737	
+05_113_69.xml		squamous-asc 		558	617	763  824	
+
+05_113_93.xml		squamous-lsil 		613	701	931  936	
+05_113_93.xml		squamous 		813	405	983  577	
+05_113_93.xml		squamous 		138	2	312  213	
+05_113_93.xml		squamous 		121	403	347  534	
+05_113_93.xml		squamous 		138	524	272  627	
+05_113_93.xml		squamous 		682	555	886  700	
+05_113_93.xml		squamous 		66	642	260  840	
+
+05_116_62.xml		squamous-asc 		759	559	1015  730	
+05_116_62.xml		squamous-asc 		782	660	942  779	
+05_116_62.xml		squamous 		57	664	237  893	
+05_116_62.xml		squamous 		445	412	648  626	
+
+05_116_65.xml		squamous-asc 		478	283	623  459	
+05_116_65.xml		squamous 		568	604	763  795	
+05_116_65.xml		squamous 		707	193	884  311	
+05_116_65.xml		squamous 		568	112	712  222	
+
+05_118_78.xml		squamous-lsil 		606	451	756  680	
+05_118_78.xml		squamous 		343	137	583  347	
+05_118_78.xml		squamous 		202	249	366  423	
+
+05_120_41.xml		squamous-asc 		327	599	423  707	
+05_120_41.xml		squamous-asc 		252	648	360  820	
+05_120_41.xml		squamous-asc 		389	653	474  780	
+05_120_41.xml		squamous-asc 		261	747	360  926	
+05_120_41.xml		squamous-asc 		310	759	419  961	
+05_120_41.xml		squamous-asc 		722	644	868  866	
+05_120_41.xml		squamous 		563	408	789  546	
+05_120_41.xml		squamous 		802	319	973  550	
+05_120_41.xml		squamous-asc 		153	806	256  918	
+
+05_120_67.xml		squamous-asc 		177	289	278  451	
+05_120_67.xml		squamous-asc 		98	311	186  476	
+05_120_67.xml		squamous 		356	472	522  658	
+05_120_67.xml		squamous 		372	646	529  908	
+05_120_67.xml		squamous 		438	748	619  945	
+05_120_67.xml		squamous 		615	631	793  773	
+05_120_67.xml		squamous 		401	214	539  373	
+05_120_67.xml		squamous 		790	733	902  839	
+05_120_67.xml		squamous 		862	196	959  438	
+
+05_120_86.xml		squamous-asc 		655	218	832  348	
+05_120_86.xml		squamous 		240	585	423  734	
+05_120_86.xml		squamous 		464	360	628  570	
+05_120_86.xml		squamous 		60	835	292  993	
+
+05_123_51.xml		squamous-lsil 		696	400	971  669	
+05_123_51.xml		squamous-asc 		639	383	820  580	
+05_123_51.xml		squamous 		544	259	743  453	
+05_123_51.xml		squamous 		119	292	361  494	
+
+05_124_68.xml		squamous-asc 		587	723	870  903	
+05_124_68.xml		squamous-asc 		614	587	769  759	
+05_124_68.xml		squamous 		864	777	978  903	
+05_124_68.xml		squamous 		762	496	966  668	
+
+05_124_73.xml		squamous-asc 		48	279	362  441	
+05_124_73.xml		squamous 		451	160	655  350	
+
+05_125_60.xml		squamous-asc 		211	324	383  536	
+05_125_60.xml		squamous 		112	297	219  459	
+05_125_60.xml		squamous 		407	355	577  622	
+05_125_60.xml		squamous-asc 		347	386	427  529	
+
+05_12_45.xml		squamous-lsil 		461	178	645  532	
+05_12_45.xml		squamous 		644	658	851  816	
+05_12_45.xml		squamous 		5	387	165  545	
+05_12_45.xml		squamous 		426	745	655  949	
+
+05_12_62.xml		squamous-asc 		336	616	468  843	
+05_12_62.xml		squamous 		426	732	526  903	
+
+05_12_65.xml		squamous-asc 		370	669	539  864	
+05_12_65.xml		squamous 		789	428	1018  576	
+05_12_65.xml		squamous 		589	811	785  959	
+05_12_65.xml		squamous 		708	582	835  828	
+05_12_65.xml		squamous 		590	6	827  160	
+
+05_13_75.xml		squamous-asc 		824	379	930  541	
+05_13_75.xml		squamous 		728	153	816  317	
+05_13_75.xml		squamous 		280	739	435  979	
+
+05_14_48.xml		squamous-lsil 		646	303	931  486	
+05_14_48.xml		squamous 		165	13	342  189	
+05_14_48.xml		squamous 		459	364	625  563	
+05_14_48.xml		squamous 		787	173	1007  324	
+
+05_15_37.xml		squamous-asc 		161	649	332  839	
+05_15_37.xml		squamous-asc 		221	655	425  773	
+05_15_37.xml		squamous 		749	582	971  816	
+05_15_37.xml		squamous 		512	8	723  192	
+05_15_37.xml		squamous 		896	214	1024  393	
+05_15_37.xml		squamous 		47	229	247  379	
+05_15_37.xml		squamous 		2	600	112  791	
+
+05_15_86.xml		squamous-lsil 		476	446	658  658	
+05_15_86.xml		squamous-asc 		405	727	514  864	
+05_15_86.xml		squamous-asc 		201	807	418  1016	
+05_15_86.xml		squamous-asc 		451	650	561  784	
+05_15_86.xml		squamous 		571	355	808  530	
+05_15_86.xml		squamous 		655	153	842  364	
+05_15_86.xml		squamous 		636	714	960  869	
+
+05_16_46.xml		squamous-asc 		527	1	749  158	
+05_16_46.xml		squamous 		748	356	896  486	
+05_16_46.xml		squamous 		788	602	927  807	
+05_16_46.xml		squamous 		682	818	864  957	
+05_16_46.xml		squamous 		54	651	210  816	
+05_16_46.xml		squamous 		714	66	879  229	
+
+05_20_34.xml		squamous-asc 		66	747	331  925	
+05_20_34.xml		squamous 		323	86	549  290	
+05_20_34.xml		squamous 		557	410	705  506	
+05_20_34.xml		squamous 		830	777	1007  987	
+
+05_20_41.xml		squamous-lsil 		769	161	869  259	
+05_20_41.xml		squamous 		549	273	756  448	
+05_20_41.xml		squamous 		765	505	1024  767	
+05_20_41.xml		squamous 		164	68	318  248	
+05_20_41.xml		squamous 		89	331	251  481	
+05_20_41.xml		squamous 		559	760	726  993	
+
+05_22_27.xml		squamous-asc 		321	72	472  246	
+05_22_27.xml		squamous 		521	430	612  717	
+05_22_27.xml		squamous 		447	425	574  562	
+05_22_27.xml		squamous 		452	805	631  1012	
+05_22_27.xml		squamous 		328	277	479  357	
+
+05_22_97.xml		squamous-asc 		773	393	987  583	
+05_22_97.xml		squamous 		340	199	527  442	
+05_22_97.xml		squamous 		148	882	370  1022	
+
+05_24_72.xml		glandular 		625	233	937  460	
+05_24_72.xml		squamous 		685	448	893  668	
+05_24_72.xml		squamous 		609	628	748  833	
+05_24_72.xml		squamous 		429	4	577  125	
+05_24_72.xml		squamous 		718	787	871  903	
+05_24_72.xml		squamous 		608	2	772  181	
+
+05_25_71.xml		squamous-asc 		558	416	683  664	
+05_25_71.xml		squamous 		162	270	303  447	
+
+05_25_89.xml		squamous-asc 		472	399	620  525	
+05_25_89.xml		squamous 		747	422	906  616	
+05_25_89.xml		squamous 		155	557	322  737	
+05_25_89.xml		squamous 		320	829	522  1024	
+05_25_89.xml		squamous-asc 		587	342	714  459	
+05_25_89.xml		squamous-asc 		503	476	733  574	
+
+05_26_48.xml		squamous-lsil 		678	760	928  960	
+05_26_48.xml		squamous 		626	509	798  661	
+05_26_48.xml		squamous 		835	117	1016  403	
+05_26_48.xml		squamous 		69	180	272  384	
+05_26_48.xml		squamous 		397	487	559  716	
+
+05_27_34.xml		squamous-asc 		204	8	397  178	
+05_27_34.xml		squamous 		683	483	878  659	
+05_27_34.xml		squamous 		349	265	489  465	
+05_27_34.xml		squamous 		666	44	843  219	
+05_27_34.xml		squamous 		323	815	522  990	
+
+05_27_48.xml		squamous-lsil 		680	1	928  194	
+05_27_48.xml		squamous 		154	686	372  872	
+05_27_48.xml		squamous 		55	241	238  380	
+
+05_28_28.xml		squamous-asc 		120	852	364  1024	
+05_28_28.xml		squamous 		401	400	590  609	
+05_28_28.xml		squamous 		754	564	937  791	
+
+05_29_28.xml		squamous-asc 		127	83	369  263	
+05_29_28.xml		squamous 		774	235	993  372	
+05_29_28.xml		squamous 		497	648	675  877	
+05_29_28.xml		squamous 		201	693	354  863	
+05_29_28.xml		squamous 		110	331	255  481	
+05_29_28.xml		squamous 		40	453	215  632	
+
+05_29_62.xml		squamous-lsil 		339	346	478  579	
+05_29_62.xml		squamous-lsil 		420	400	540  577	
+05_29_62.xml		squamous-lsil 		251	247	429  408	
+05_29_62.xml		squamous 		402	31	598  195	
+05_29_62.xml		squamous 		442	831	589  1009	
+05_29_62.xml		squamous 		797	424	906  550	
+
+05_30_71.xml		squamous-asc 		821	502	961  715	
+05_30_71.xml		squamous-asc 		728	273	855  393	
+05_30_71.xml		squamous-asc 		688	482	852  675	
+05_30_71.xml		squamous-asc 		670	668	788  870	
+05_30_71.xml		squamous 		212	152	362  302	
+05_30_71.xml		squamous 		103	372	243  582	
+
+05_31_49.xml		squamous-lsil 		609	484	789  740	
+05_31_49.xml		squamous 		643	251	840  467	
+05_31_49.xml		squamous 		72	261	278  437	
+05_31_49.xml		squamous 		376	480	542  682	
+05_31_49.xml		squamous 		793	634	1022  822	
+05_31_49.xml		squamous 		896	311	1024  453	
+
+05_32_47.xml		squamous-asc 		422	407	569  654	
+05_32_47.xml		squamous-asc 		639	582	731  739	
+05_32_47.xml		squamous 		376	844	565  993	
+05_32_47.xml		squamous 		853	652	1024  771	
+05_32_47.xml		squamous-asc 		489	324	612  452	
+
+05_32_65.xml		squamous-asc 		508	459	706  686	
+05_32_65.xml		squamous 		61	435	299  640	
+05_32_65.xml		squamous 		208	313	346  515	
+
+05_32_71.xml		squamous-lsil 		680	593	956  903	
+05_32_71.xml		squamous 		877	2	1023  178	
+05_32_71.xml		squamous 		372	233	588  342	
+05_32_71.xml		squamous 		5	235	214  479	
+
+05_33_24.xml		squamous-asc 		361	627	564  829	
+05_33_24.xml		squamous 		564	490	735  692	
+05_33_24.xml		squamous 		111	111	243  245	
+05_33_24.xml		squamous 		52	200	214  384	
+05_33_24.xml		squamous 		554	146	722  307	
+05_33_24.xml		squamous 		6	611	135  759	
+
+05_33_82.xml		squamous-asc 		710	311	845  496	
+05_33_82.xml		squamous 		488	355	656  560	
+05_33_82.xml		squamous 		49	106	244  273	
+
+05_34_59.xml		squamous-asc 		221	451	484  650	
+05_34_59.xml		squamous 		496	326	624  527	
+05_34_59.xml		squamous 		627	520	780  664	
+05_34_59.xml		squamous 		504	781	668  925	
+
+05_35_62.xml		squamous-asc 		209	723	389  990	
+05_35_62.xml		squamous 		161	559	357  770	
+05_35_62.xml		squamous 		577	595	682  726	
+05_35_62.xml		squamous 		125	701	242  892	
+
+05_36_23.xml		squamous-asc 		439	845	602  953	
+05_36_23.xml		squamous 		616	273	791  417	
+05_36_23.xml		squamous 		279	108	432  320	
+05_36_23.xml		squamous 		779	805	967  1024	
+
+05_36_62.xml		squamous-asc 		225	1	381  219	
+05_36_62.xml		squamous 		570	442	704  561	
+05_36_62.xml		squamous 		718	337	855  512	
+05_36_62.xml		squamous 		517	574	723  744	
+05_36_62.xml		squamous 		135	756	281  845	
+05_36_62.xml		squamous 		269	253	490  460	
+
+05_36_85.xml		squamous-asc 		106	792	261  999	
+05_36_85.xml		squamous 		264	126	469  324	
+05_36_85.xml		squamous 		710	183	941  437	
+
+05_37_23.xml		squamous-asc 		439	76	598  202	
+05_37_23.xml		squamous 		777	43	957  269	
+05_37_23.xml		squamous 		864	279	1012  459	
+05_37_23.xml		squamous 		819	614	993  874	
+05_37_23.xml		squamous 		372	282	515  493	
+
+05_37_44.xml		squamous-asc 		465	458	604  667	
+05_37_44.xml		squamous 		183	253	413  453	
+05_37_44.xml		squamous 		622	589	763  731	
+05_37_44.xml		squamous 		675	859	823  1017	
+
+05_37_84.xml		squamous-asc 		888	24	1024  226	
+05_37_84.xml		squamous 		79	418	348  650	
+
+05_39_100.xml		squamous-asc 		291	182	509  365	
+05_39_100.xml		squamous-asc 		318	231	507  437	
+05_39_100.xml		squamous 		316	540	499  712	
+05_39_100.xml		squamous 		5	272	235  413	
+
+05_39_54.xml		glandular 		748	106	983  382	
+05_39_54.xml		squamous 		40	240	221  433	
+05_39_54.xml		squamous 		571	832	801  1020	
+05_39_54.xml		squamous 		712	373	910  482	
+05_39_54.xml		squamous 		366	467	472  581	
+
+05_40_35.xml		squamous-asc 		406	868	657  1024	
+05_40_35.xml		squamous 		1	734	188  957	
+05_40_35.xml		squamous 		209	464	347  602	
+05_40_35.xml		squamous 		135	49	320  224	
+
+05_40_36.xml		squamous-asc 		365	830	535  1017	
+05_40_36.xml		squamous 		195	739	381  878	
+05_40_36.xml		squamous 		819	677	982  812	
+
+05_40_62.xml		squamous-asc 		454	1	611  116	
+05_40_62.xml		squamous-asc 		636	287	835  462	
+05_40_62.xml		squamous 		593	474	800  650	
+05_40_62.xml		squamous 		301	302	456  473	
+05_40_62.xml		squamous 		432	361	571  549	
+05_40_62.xml		squamous-asc 		190	365	321  528	
+
+05_40_83.xml		squamous-asc 		532	670	714  837	
+05_40_83.xml		squamous 		187	827	344  1010	
+05_40_83.xml		squamous 		670	850	812  1010	
+05_40_83.xml		squamous-asc 		559	772	731  879	
+
+05_40_97.xml		glandular 		283	482	664  808	
+05_40_97.xml		squamous 		570	119	754  230	
+
+05_41_105.xml		squamous-asc 		190	331	315  443	
+05_41_105.xml		squamous-asc 		262	347	378  443	
+05_41_105.xml		squamous 		448	31	592  212	
+05_41_105.xml		squamous 		2	416	121  594	
+
+05_41_35.xml		squamous-asc 		408	100	649  262	
+05_41_35.xml		squamous 		324	562	485  682	
+05_41_35.xml		squamous 		868	361	1023  558	
+05_41_35.xml		squamous 		851	147	1018  331	
+05_41_35.xml		squamous 		54	449	216  618	
+05_41_35.xml		squamous 		139	545	306  793	
+
+05_41_36.xml		squamous-asc 		373	65	532  242	
+05_41_36.xml		squamous 		220	252	441  366	
+05_41_36.xml		squamous 		526	327	672  537	
+05_41_36.xml		squamous 		225	423	363  602	
+05_41_36.xml		squamous 		96	351	259  556	
+05_41_36.xml		squamous 		632	600	762  750	
+05_41_36.xml		squamous 		74	147	243  339	
+05_41_36.xml		squamous 		779	583	939  763	
+
+05_41_41.xml		squamous-asc 		66	150	186  335	
+05_41_41.xml		squamous 		312	429	478  661	
+05_41_41.xml		squamous 		715	408	896  605	
+
+05_42_85.xml		squamous-asc 		154	75	351  273	
+05_42_85.xml		squamous 		366	283	614  435	
+05_42_85.xml		squamous 		251	512	419  681	
+05_42_85.xml		squamous 		401	639	557  937	
+
+05_43_43.xml		squamous-asc 		499	587	664  793	
+05_43_43.xml		squamous 		619	266	808  450	
+05_43_43.xml		squamous 		647	739	875  956	
+05_43_43.xml		squamous 		91	430	248  570	
+05_43_43.xml		squamous 		259	657	437  758	
+05_43_43.xml		squamous-asc 		779	1	957  82	
+
+05_43_83.xml		squamous-asc 		97	282	274  455	
+05_43_83.xml		squamous-asc 		252	250	396  445	
+05_43_83.xml		squamous 		486	274	631  420	
+
+05_43_86.xml		squamous-asc 		511	155	695  305	
+05_43_86.xml		squamous 		8	211	218  360	
+05_43_86.xml		squamous 		801	79	975  247	
+05_43_86.xml		squamous 		268	2	475  178	
+
+05_44_79.xml		squamous-asc 		373	585	544  733	
+05_44_79.xml		squamous-asc 		332	650	482  773	
+05_44_79.xml		squamous 		677	647	827  813	
+05_44_79.xml		squamous 		135	23	304  185	
+05_44_79.xml		squamous 		815	864	980  1008	
+05_44_79.xml		squamous-asc 		668	800	887  911	
+
+05_46_20.xml		squamous-asc 		94	559	303  822	
+05_46_20.xml		squamous 		379	395	547  559	
+05_46_20.xml		squamous 		555	516	764  652	
+05_46_20.xml		squamous 		377	135	573  359	
+05_46_20.xml		squamous 		587	176	765  299	
+05_46_20.xml		squamous 		468	823	637  1024	
+
+05_46_59.xml		squamous-lsil 		811	164	1009  323	
+05_46_59.xml		squamous 		560	175	638  415	
+05_46_59.xml		squamous 		133	381	204  664	
+05_46_59.xml		squamous 		1	841	163  1002	
+05_46_59.xml		squamous 		890	331	1024  477	
+
+05_46_62.xml		squamous-lsil 		363	587	540  752	
+05_46_62.xml		squamous-asc 		76	406	248  527	
+05_46_62.xml		squamous 		244	678	391  826	
+05_46_62.xml		squamous 		6	57	143  209	
+05_46_62.xml		squamous 		523	848	719  964	
+
+05_46_69.xml		squamous-asc 		479	566	576  700	
+05_46_69.xml		squamous-asc 		519	690	592  822	
+05_46_69.xml		squamous-asc 		330	529	451  695	
+05_46_69.xml		squamous-asc 		411	669	507  796	
+05_46_69.xml		squamous 		774	560	1002  719	
+05_46_69.xml		squamous 		176	810	344  941	
+05_46_69.xml		squamous-asc 		558	718	698  815	
+
+05_47_105.xml		squamous-asc 		715	357	822  478	
+05_47_105.xml		squamous-asc 		439	407	553  566	
+05_47_105.xml		squamous 		168	302	336  447	
+05_47_105.xml		squamous 		41	849	214  1024	
+05_47_105.xml		squamous 		569	97	806  332	
+
+05_47_45.xml		glandular 		183	55	511  369	
+05_47_45.xml		glandular 		439	111	687  356	
+05_47_45.xml		squamous 		338	359	494  568	
+05_47_45.xml		squamous 		1	197	157  367	
+
+05_48_34.xml		squamous-asc 		3	98	220  262	
+05_48_34.xml		squamous-asc 		313	3	460  144	
+05_48_34.xml		squamous-asc 		731	490	859  611	
+05_48_34.xml		squamous 		473	487	643  664	
+05_48_34.xml		squamous 		671	210	805  347	
+05_48_34.xml		squamous 		546	194	691  365	
+
+05_49_62.xml		squamous-asc 		367	410	559  597	
+05_49_62.xml		squamous 		645	323	846  529	
+05_49_62.xml		squamous 		807	418	965  618	
+05_49_62.xml		squamous 		437	132	605  335	
+05_49_62.xml		squamous-asc 		257	267	490  412	
+
+05_50_105.xml		squamous-asc 		726	711	913  901	
+05_50_105.xml		squamous 		353	656	574  878	
+05_50_105.xml		squamous 		189	700	379  920	
+05_50_105.xml		squamous 		487	399	620  561	
+05_50_105.xml		squamous 		126	198	249  410	
+05_50_105.xml		squamous 		188	3	305  156	
+05_50_105.xml		squamous 		21	51	162  240	
+05_50_105.xml		squamous 		436	6	528  156	
+05_50_105.xml		squamous 		678	609	864  726	
+05_50_105.xml		squamous 		182	483	339  673	
+
+05_50_19.xml		squamous-asc 		297	459	501  647	
+05_50_19.xml		squamous 		505	211	656  389	
+05_50_19.xml		squamous 		195	496	302  674	
+05_50_19.xml		squamous 		151	710	328  879	
+05_50_19.xml		squamous 		327	28	495  183	
+05_50_19.xml		squamous 		751	16	992  172	
+
+05_50_60.xml		squamous-asc 		870	16	1024  209	
+05_50_60.xml		squamous 		624	31	761  199	
+05_50_60.xml		squamous 		463	568	627  732	
+05_50_60.xml		squamous 		651	701	847  810	
+05_50_60.xml		squamous 		30	527	154  650	
+
+05_51_85.xml		squamous-asc 		107	437	299  649	
+05_51_85.xml		squamous-asc 		488	82	641  245	
+05_51_85.xml		squamous 		567	24	725  156	
+05_51_85.xml		squamous 		155	797	327  986	
+05_51_85.xml		squamous 		259	263	406  424	
+
+05_52_20.xml		squamous-asc 		219	501	427  632	
+05_52_20.xml		squamous 		11	462	190  661	
+05_52_20.xml		squamous 		220	666	444  863	
+05_52_20.xml		squamous 		5	758	175  912	
+
+05_52_53.xml		squamous-asc 		266	547	415  776	
+05_52_53.xml		squamous-asc 		138	610	319  798	
+05_52_53.xml		squamous-asc 		73	664	285  869	
+05_52_53.xml		squamous 		478	148	685  359	
+05_52_53.xml		squamous 		664	141	893  323	
+05_52_53.xml		squamous 		297	148	464  293	
+
+05_52_57.xml		squamous-asc 		85	150	236  267	
+05_52_57.xml		squamous 		451	208	623  359	
+05_52_57.xml		squamous 		4	702	181  896	
+05_52_57.xml		squamous 		194	755	420  981	
+05_52_57.xml		squamous 		2	242	191  431	
+
+05_53_121.xml		squamous-lsil 		482	24	771  389	
+05_53_121.xml		squamous 		468	594	711  734	
+05_53_121.xml		squamous 		635	766	815  912	
+05_53_121.xml		squamous 		274	649	414  829	
+
+05_53_15.xml		squamous-asc 		517	587	632  835	
+05_53_15.xml		squamous 		651	316	875  534	
+05_53_15.xml		squamous 		531	292	666  475	
+05_53_15.xml		squamous 		172	541	297  667	
+05_53_15.xml		squamous 		205	817	424  1020	
+05_53_15.xml		squamous 		661	98	811  247	
+
+05_53_49.xml		glandular 		424	179	543  369	
+05_53_49.xml		squamous 		513	415	662  651	
+05_53_49.xml		squamous 		180	611	405  880	
+05_53_49.xml		squamous 		139	344	263  449	
+05_53_49.xml		squamous 		557	646	713  808	
+05_53_49.xml		squamous 		568	827	788  960	
+05_53_49.xml		squamous 		749	605	926  736	
+05_53_49.xml		squamous 		279	397	390  587	
+05_53_49.xml		squamous 		621	332	763  663	
+
+05_54_74.xml		squamous-asc 		726	517	836  667	
+05_54_74.xml		squamous-asc 		825	479	915  666	
+05_54_74.xml		squamous-asc 		683	698	819  799	
+05_54_74.xml		squamous-asc 		563	716	659  834	
+05_54_74.xml		squamous 		470	181	629  336	
+05_54_74.xml		squamous 		287	484	521  669	
+05_54_74.xml		squamous-asc 		501	806	775  932	
+05_54_74.xml		squamous 		246	406	391  494	
+
+05_54_8.xml		squamous-asc 		135	20	326  202	
+05_54_8.xml		squamous-asc 		186	135	305  295	
+05_54_8.xml		squamous 		752	574	991  779	
+05_54_8.xml		squamous 		325	1	452  226	
+
+05_56_38.xml		squamous-lsil 		45	298	340  595	
+05_56_38.xml		squamous-asc 		345	261	425  447	
+05_56_38.xml		squamous-asc 		357	179	466  319	
+05_56_38.xml		squamous-asc 		270	210	388  403	
+05_56_38.xml		squamous-asc 		204	458	418  689	
+05_56_38.xml		squamous 		479	497	570  680	
+05_56_38.xml		squamous 		314	551	474  769	
+
+05_56_55.xml		squamous-asc 		780	459	954  653	
+05_56_55.xml		squamous-asc 		654	569	795  826	
+05_56_55.xml		squamous-asc 		771	627	961  835	
+05_56_55.xml		squamous 		64	174	225  376	
+05_56_55.xml		squamous 		78	777	306  992	
+
+05_56_72.xml		squamous-lsil 		267	123	541  363	
+05_56_72.xml		squamous-asc 		193	93	410  311	
+05_56_72.xml		squamous 		279	470	509  657	
+05_56_72.xml		squamous 		524	1	636  132	
+05_56_72.xml		squamous 		870	31	1024  304	
+
+05_57_21.xml		squamous-asc 		263	274	495  479	
+05_57_21.xml		squamous 		639	445	810  628	
+05_57_21.xml		squamous 		190	480	375  615	
+05_57_21.xml		squamous 		155	13	353  255	
+05_57_21.xml		squamous 		501	25	653  211	
+05_57_21.xml		squamous 		36	606	190  755	
+
+05_57_29.xml		squamous-asc 		398	318	763  506	
+05_57_29.xml		squamous 		711	14	899  163	
+05_57_29.xml		squamous 		222	136	457  269	
+05_57_29.xml		squamous 		94	361	209  519	
+05_57_29.xml		squamous 		276	262	415  428	
+05_57_29.xml		squamous 		22	94	213  251	
+05_57_29.xml		squamous 		320	806	460  990	
+05_57_29.xml		squamous 		195	800	316  950	
+
+05_57_69.xml		squamous-asc 		666	611	796  775	
+05_57_69.xml		squamous 		476	836	665  980	
+05_57_69.xml		squamous 		685	827	825  945	
+05_57_69.xml		squamous 		161	516	345  640	
+05_57_69.xml		squamous 		476	493	631  606	
+
+05_58_36.xml		squamous-asc 		514	147	666  408	
+05_58_36.xml		squamous 		615	146	835  317	
+05_58_36.xml		squamous 		369	566	568  728	
+05_58_36.xml		squamous 		830	685	1018  864	
+05_58_36.xml		squamous 		99	93	273  290	
+
+05_58_44.xml		squamous-lsil 		623	131	799  356	
+05_58_44.xml		squamous 		476	142	562  292	
+05_58_44.xml		squamous 		211	734	331  936	
+
+05_59_43.xml		squamous-asc 		545	350	696  526	
+
+05_60_54.xml		squamous-asc 		142	266	327  505	
+05_60_54.xml		squamous-asc 		52	332	204  518	
+05_60_54.xml		squamous 		215	545	313  746	
+05_60_54.xml		squamous 		877	224	990  380	
+05_60_54.xml		squamous 		175	709	301  877	
+
+05_60_67.xml		squamous-lsil 		187	17	368  146	
+05_60_67.xml		squamous 		774	173	978  346	
+05_60_67.xml		squamous 		312	640	509  841	
+05_60_67.xml		squamous 		577	687	820  850	
+
+05_61_53.xml		squamous-asc 		129	332	326  561	
+05_61_53.xml		squamous 		380	613	594  819	
+05_61_53.xml		squamous 		252	848	458  959	
+
+05_62_120.xml		squamous-asc 		212	556	587  741	
+
+05_63_68.xml		squamous-asc 		711	449	857  600	
+05_63_68.xml		squamous 		286	552	411  696	
+05_63_68.xml		squamous 		420	691	552  861	
+05_63_68.xml		squamous 		525	770	693  975	
+05_63_68.xml		squamous 		830	667	1008  774	
+05_63_68.xml		squamous 		1	728	163  861	
+
+05_63_79.xml		squamous-asc 		840	541	1002  705	
+05_63_79.xml		squamous-asc 		647	481	806  656	
+05_63_79.xml		squamous-asc 		875	439	1024  552	
+05_63_79.xml		squamous 		125	419	369  577	
+05_63_79.xml		squamous 		710	762	911  941	
+
+05_63_81.xml		squamous-asc 		515	516	636  794	
+05_63_81.xml		squamous-asc 		610	564	721  750	
+05_63_81.xml		squamous-asc 		791	411	949  539	
+05_63_81.xml		squamous 		499	60	728  224	
+05_63_81.xml		squamous 		433	192	730  452	
+05_63_81.xml		squamous 		659	382	777  597	
+
+05_63_92.xml		squamous-asc 		754	567	903  724	
+05_63_92.xml		squamous-asc 		577	774	691  906	
+05_63_92.xml		squamous-asc 		641	742	739  840	
+
+05_64_22.xml		squamous-lsil 		562	333	847  541	
+05_64_22.xml		squamous 		797	82	985  302	
+05_64_22.xml		squamous 		247	389	420  581	
+05_64_22.xml		squamous 		248	565	475  729	
+05_64_22.xml		squamous 		833	436	998  609	
+05_64_22.xml		squamous-asc 		730	337	863  433	
+05_64_22.xml		squamous 		70	684	233  887	
+05_64_22.xml		squamous 		690	223	820  343	
+
+05_64_41.xml		squamous-asc 		620	391	980  553	
+05_64_41.xml		squamous 		737	550	942  730	
+05_64_41.xml		squamous 		809	722	997  903	
+05_64_41.xml		squamous 		36	522	195  728	
+05_64_41.xml		squamous 		32	300	288  433	
+
+05_64_81.xml		squamous-lsil 		475	605	735  863	
+05_64_81.xml		squamous 		171	574	298  793	
+05_64_81.xml		squamous 		570	893	772  1024	
+05_64_81.xml		squamous 		129	298	298  501	
+
+05_66_44.xml		squamous-asc 		548	578	805  789	
+05_66_44.xml		squamous 		72	442	275  672	
+05_66_44.xml		squamous 		674	282	777  506	
+05_66_44.xml		squamous 		511	763	718  958	
+05_66_44.xml		squamous 		385	390	571  496	
+
+05_67_109.xml		squamous-asc 		788	341	930  447	
+05_67_109.xml		squamous-asc 		815	419	897  509	
+05_67_109.xml		squamous 		3	472	116  635	
+05_67_109.xml		squamous 		709	581	872  830	
+05_67_109.xml		squamous 		293	547	495  666	
+05_67_109.xml		squamous 		16	849	195  997	
+
+05_67_29.xml		squamous-asc 		424	128	566  315	
+05_67_29.xml		squamous 		816	393	999  577	
+05_67_29.xml		squamous 		568	216	683  372	
+
+05_67_43.xml		squamous-asc 		204	16	379  232	
+05_67_43.xml		squamous 		141	523	286  665	
+05_67_43.xml		squamous 		261	728	435  926	
+05_67_43.xml		squamous 		366	814	552  996	
+
+05_67_71.xml		squamous-asc 		698	734	846  843	
+05_67_71.xml		squamous-asc 		773	824	956  906	
+05_67_71.xml		squamous 		39	591	205  757	
+05_67_71.xml		squamous 		608	403	764  576	
+05_67_71.xml		squamous-asc 		537	439	692  640	
+
+05_67_72.xml		squamous-asc 		620	336	781  527	
+05_67_72.xml		squamous-asc 		887	851	983  946	
+05_67_72.xml		squamous-asc 		3	822	185  911	
+05_67_72.xml		squamous-asc 		510	179	616  264	
+05_67_72.xml		squamous-asc 		583	298	720  406	
+
+05_68_34.xml		squamous-lsil 		556	321	748  566	
+05_68_34.xml		squamous 		733	733	964  941	
+05_68_34.xml		squamous 		23	58	235  193	
+05_68_34.xml		squamous 		289	822	520  1018	
+05_68_34.xml		squamous-asc 		572	44	720  209	
+
+05_69_54.xml		squamous-asc 		316	612	532  792	
+05_69_54.xml		squamous 		521	719	697  859	
+05_69_54.xml		squamous 		259	366	468  515	
+05_69_54.xml		squamous 		106	783	290  878	
+
+05_70_117.xml		squamous-lsil 		480	532	727  817	
+05_70_117.xml		squamous-asc 		430	569	542  745	
+05_70_117.xml		squamous 		642	334	808  477	
+05_70_117.xml		squamous 		767	204	937  352	
+05_70_117.xml		squamous 		41	617	220  773	
+05_70_117.xml		squamous 		870	623	1024  800	
+05_70_117.xml		squamous 		665	156	779  346	
+05_70_117.xml		squamous 		527	325	631  464	
+05_70_117.xml		squamous 		693	10	933  153	
+
+05_71_124.xml		squamous-asc 		377	708	569  945	
+05_71_124.xml		squamous-asc 		380	867	523  1000	
+05_71_124.xml		squamous 		72	266	280  452	
+05_71_124.xml		squamous 		28	93	137  286	
+05_71_124.xml		squamous 		453	44	537  265	
+
+05_71_37.xml		squamous-asc 		120	28	385  200	
+05_71_37.xml		squamous 		495	629	736  836	
+05_71_37.xml		squamous 		600	804	843  996	
+05_71_37.xml		squamous 		37	334	266  492	
+05_71_37.xml		squamous-asc 		439	228	623  343	
+
+05_73_65.xml		squamous-lsil 		328	239	638  445	
+05_73_65.xml		squamous 		496	6	688  221	
+05_73_65.xml		squamous 		148	653	364  910	
+05_73_65.xml		squamous 		340	570	499  739	
+05_73_65.xml		squamous 		470	556	610  641	
+05_73_65.xml		squamous 		844	316	990  496	
+
+05_74_70.xml		squamous-asc 		171	32	405  262	
+05_74_70.xml		squamous 		546	354	791  515	
+05_74_70.xml		squamous 		747	253	959  458	
+
+05_75_52.xml		squamous-asc 		488	605	607  826	
+05_75_52.xml		squamous 		158	292	357  472	
+05_75_52.xml		squamous 		864	141	999  286	
+05_75_52.xml		squamous 		860	297	1020  453	
+05_75_52.xml		squamous 		765	623	974  830	
+
+05_75_56.xml		squamous-lsil 		74	751	267  938	
+05_75_56.xml		squamous 		243	515	380  677	
+05_75_56.xml		squamous 		533	328	705  518	
+05_75_56.xml		squamous 		727	73	823  232	
+05_75_56.xml		squamous 		131	32	346  214	
+05_75_56.xml		squamous 		26	666	209  789	
+05_75_56.xml		squamous 		306	665	455  810	
+05_75_56.xml		squamous-asc 		675	177	842  355	
+
+05_75_60.xml		squamous-asc 		353	325	564  510	
+05_75_60.xml		squamous 		100	4	287  190	
+05_75_60.xml		squamous 		149	376	305  565	
+
+05_76_112.xml		squamous-asc 		386	715	538  912	
+05_76_112.xml		squamous 		587	566	749  781	
+05_76_112.xml		squamous 		649	9	828  190	
+05_76_112.xml		squamous-asc 		419	109	586  241	
+05_76_112.xml		squamous 		652	395	794  552	
+
+05_76_55.xml		squamous-lsil 		842	1	1023  170	
+05_76_55.xml		squamous 		708	539	919  729	
+05_76_55.xml		squamous 		622	479	816  611	
+05_76_55.xml		squamous 		273	650	441  754	
+05_76_55.xml		squamous 		511	662	683  827	
+
+05_77_105.xml		squamous-asc 		298	790	476  893	
+05_77_105.xml		squamous-asc 		357	852	528  940	
+05_77_105.xml		squamous-asc 		263	451	405  540	
+05_77_105.xml		squamous-asc 		285	639	412  742	
+05_77_105.xml		squamous 		554	880	694  988	
+05_77_105.xml		squamous 		845	442	955  517	
+05_77_105.xml		squamous 		324	923	492  1024	
+
+05_77_12.xml		glandular 		366	644	632  907	
+05_77_12.xml		squamous 		220	147	429  312	
+05_77_12.xml		squamous 		399	1	487  204	
+05_77_12.xml		squamous 		155	321	287  505	
+05_77_12.xml		squamous 		176	101	316  200	
+
+05_79_90.xml		squamous-asc 		529	652	660  892	
+05_79_90.xml		squamous 		335	260	536  465	
+
+05_79_97.xml		squamous-asc 		560	336	732  498	
+05_79_97.xml		squamous-asc 		483	368	690  514	
+05_79_97.xml		squamous 		628	575	801  685	
+05_79_97.xml		squamous 		416	529	604  660	
+05_79_97.xml		squamous 		177	34	452  161	
+05_79_97.xml		squamous 		863	701	1021  887	
+
+05_80_106.xml		squamous-asc 		623	396	928  514	
+05_80_106.xml		squamous-asc 		644	451	963  580	
+05_80_106.xml		squamous 		656	623	856  802	
+
+05_80_82.xml		squamous-asc 		600	173	804  434	
+05_80_82.xml		squamous 		439	593	701  732	
+05_80_82.xml		squamous 		173	683	403  847	
+05_80_82.xml		squamous 		396	177	613  375	
+05_80_82.xml		squamous 		591	407	809  505	
+05_80_82.xml		squamous 		733	170	972  317	
+
+05_80_88.xml		squamous-asc 		695	365	994  664	
+05_80_88.xml		squamous 		720	661	982  784	
+05_80_88.xml		squamous 		489	685	620  820	
+05_80_88.xml		squamous 		397	702	510  808	
+05_80_88.xml		squamous 		65	640	316  818	
+05_80_88.xml		squamous 		490	369	709  562	
+
+05_80_93.xml		squamous-asc 		603	573	732  757	
+05_80_93.xml		squamous-asc 		461	574	582  711	
+05_80_93.xml		squamous-asc 		525	579	639  727	
+05_80_93.xml		squamous 		128	422	274  605	
+05_80_93.xml		squamous 		476	680	638  861	
+
+05_81_122.xml		squamous-asc 		223	351	343  473	
+05_81_122.xml		squamous 		332	246	532  483	
+
+05_81_79.xml		squamous-lsil 		90	476	253  639	
+05_81_79.xml		squamous-asc 		190	549	324  664	
+05_81_79.xml		squamous 		105	676	370  849	
+05_81_79.xml		squamous 		762	620	949  779	
+05_81_79.xml		squamous-asc 		1	459	105  575	
+
+05_82_54.xml		squamous-asc 		504	561	664  750	
+05_82_54.xml		squamous 		256	767	422  944	
+05_82_54.xml		squamous 		629	605	894  755	
+05_82_54.xml		squamous 		683	352	858  530	
+
+05_82_71.xml		squamous-asc 		730	645	925  1024	
+05_82_71.xml		squamous 		385	783	466  893	
+05_82_71.xml		squamous 		718	439	932  552	
+05_82_71.xml		squamous 		341	41	490  215	
+
+05_83_12.xml		squamous-asc 		233	241	402  386	
+05_83_12.xml		squamous-asc 		409	864	527  977	
+05_83_12.xml		squamous 		238	768	416  957	
+05_83_12.xml		squamous 		289	367	424  482	
+
+05_83_46.xml		squamous-lsil 		295	282	434  504	
+05_83_46.xml		squamous 		538	250	744  394	
+05_83_46.xml		squamous 		481	3	751  165	
+05_83_46.xml		squamous 		41	278	232  400	
+05_83_46.xml		squamous 		538	479	686  608	
+05_83_46.xml		squamous 		40	381	236  567	
+
+05_84_35.xml		squamous-asc 		632	345	790  593	
+05_84_35.xml		squamous 		340	124	492  253	
+05_84_35.xml		squamous 		153	281	275  422	
+05_84_35.xml		squamous 		704	148	836  328	
+05_84_35.xml		squamous 		522	231	661  358	
+
+05_84_86.xml		squamous-asc 		255	567	383  748	
+05_84_86.xml		squamous 		830	762	1010  950	
+
+05_86_22.xml		squamous-lsil 		175	381	522  648	
+05_86_22.xml		squamous 		314	249	439  414	
+05_86_22.xml		squamous 		644	489	793  716	
+05_86_22.xml		squamous 		386	106	541  270	
+05_86_22.xml		squamous 		651	223	844  340	
+
+05_87_42.xml		glandular 		499	40	756  326	
+05_87_42.xml		squamous 		679	572	905  736	
+05_87_42.xml		squamous 		447	867	623  1023	
+05_87_42.xml		squamous 		793	86	928  220	
+
+05_87_58.xml		squamous-asc 		398	257	601  557	
+05_87_58.xml		squamous 		322	489	462  653	
+05_87_58.xml		squamous 		661	791	862  1001	
+
+05_87_85.xml		squamous-asc 		692	811	926  1024	
+05_87_85.xml		squamous 		247	499	461  653	
+05_87_85.xml		squamous 		814	675	985  808	
+05_87_85.xml		squamous 		814	117	982  234	
+
+05_88_96.xml		squamous-asc 		786	556	916  719	
+05_88_96.xml		squamous-asc 		796	256	1010  396	
+05_88_96.xml		squamous-asc 		618	573	744  725	
+05_88_96.xml		squamous-asc 		907	783	1020  941	
+05_88_96.xml		squamous-asc 		699	135	820  307	
+05_88_96.xml		squamous 		278	584	466  722	
+05_88_96.xml		squamous 		456	705	614  922	
+
+05_91_118.xml		squamous-asc 		822	331	1022  475	
+05_91_118.xml		squamous-asc 		402	413	641  562	
+05_91_118.xml		squamous 		174	501	354  650	
+05_91_118.xml		squamous 		86	375	206  499	
+05_91_118.xml		squamous 		24	477	129  630	
+05_91_118.xml		squamous 		582	330	748  420	
+
+05_92_34.xml		squamous-lsil 		789	199	993  387	
+05_92_34.xml		squamous 		224	285	455  440	
+05_92_34.xml		squamous 		335	457	488  583	
+
+05_93_28.xml		squamous-asc 		707	459	859  670	
+05_93_28.xml		squamous-asc 		628	459	743  563	
+05_93_28.xml		squamous 		522	213	692  430	
+05_93_28.xml		squamous 		126	560	263  724	
+05_93_28.xml		squamous 		279	678	468  944	
+
+05_94_73.xml		squamous-asc 		21	598	251  700	
+05_94_73.xml		squamous-asc 		113	690	338  818	
+05_94_73.xml		squamous-asc 		119	511	265  642	
+05_94_73.xml		squamous 		377	815	586  1020	
+05_94_73.xml		squamous 		588	108	822  243	
+
+05_94_85.xml		squamous-asc 		724	184	829  334	
+05_94_85.xml		squamous-asc 		785	199	928  378	
+05_94_85.xml		squamous-asc 		612	269	760  342	
+05_94_85.xml		squamous 		691	513	842  677	
+05_94_85.xml		squamous 		372	50	487  178	
+05_94_85.xml		squamous 		408	201	558  459	
+
+05_96_101.xml		squamous-asc 		458	392	558  512	
+05_96_101.xml		squamous-asc 		630	407	782  479	
+05_96_101.xml		squamous-asc 		565	461	704  552	
+05_96_101.xml		squamous-asc 		726	446	877  544	
+05_96_101.xml		squamous 		35	1	229  229	
+05_96_101.xml		squamous 		880	147	1020  262	
+
+05_98_24.xml		squamous-asc 		286	277	465  508	
+05_98_24.xml		squamous-asc 		340	604	566  729	
+05_98_24.xml		squamous 		842	345	1003  484	
+05_98_24.xml		squamous 		280	743	501  976	
+05_98_24.xml		squamous 		21	581	211  719	
+
+05_98_77.xml		squamous-asc 		180	114	366  270	
+05_98_77.xml		squamous 		446	367	605  576	
+05_98_77.xml		squamous 		48	368	257  541	
+05_98_77.xml		squamous 		609	131	789  282	
+
+05_99_53.xml		squamous-asc 		282	318	602  458	
+05_99_53.xml		squamous-asc 		827	640	1024  813	
+05_99_53.xml		squamous-asc 		828	101	1024  259	
+05_99_53.xml		squamous 		396	128	588  321	
+05_99_53.xml		squamous 		861	520	985  652	
+
+05_99_54.xml		squamous-asc 		54	636	287  823	
+05_99_54.xml		squamous 		599	702	796  849	
+05_99_54.xml		squamous 		86	530	228  664	
+
+05_99_71.xml		squamous-lsil 		524	400	673  652	
+05_99_71.xml		squamous 		622	153	739  309	
+05_99_71.xml		squamous 		818	36	970  140	
+
